@@ -1,0 +1,8 @@
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\obj\Debug\calculadora.txtcalculadora.resources
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Martin\Documents\pendrive\calculadora\calculadora\obj\Debug\calculadora.pdb

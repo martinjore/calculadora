@@ -1,0 +1,8 @@
+bin\Debug\calculadora.exe
+bin\Debug\calculadora.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\calculadora.txtcalculadora.resources
+obj\Debug\calculadora.Properties.Resources.resources
+obj\Debug\calculadora.csproj.GenerateResource.Cache
+obj\Debug\calculadora.exe
+obj\Debug\calculadora.pdb
